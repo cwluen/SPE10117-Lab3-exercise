@@ -9,6 +9,12 @@
 - Synchronization
 - Ecommerce logistics
 
-3.The main apporach is proving CPS-enabled platform is a solution for (virtual) ecommerce logistics chains and make it better.In this solution,it is a common technology nowadays.Icloud is commonly used by everyone today,for example "Google drive cloud storage".Althought it is not difficult for the any companies to set up a server for that,Hong Kong's most companies are not well integrated with the operation processes to address industrial challenges.
+3.The main apporach is proving CPS-enabled platform is a solution for (virtual) ecommerce logistics chains and make it better.In this solution,it is a common technology nowadays.Icloud is commonly used by everyone today,for example "Google drive cloud storage".Althought it is not difficult for the any companies to set up a server for that,Hong Kong's most companies are not well integrated with the operation processes to address industrial challenges and it costs a lots of money.
 
-4.
+4.The major strength is the two big industies cases in Hong Kong power the reliability and possibilities of the paper.
+
+5.The major weakness is the two cases in the paper is two big industies with sufficient resources and funds to set up and address industrial changes.In Hong Kong,SMEs has the large amounts of total.The solution in this paper maybe hard to process for them,usually because not enough funds and resources
+
+6.The iCoordinator is my new learn from this paper.Nowadays everythings are telling about automatical,iCoordinator is the very important thing and it will enhance our social life.
+
+7.
