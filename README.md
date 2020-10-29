@@ -17,4 +17,4 @@
 
 6.The iCoordinator is my new learn from this paper.Nowadays everythings are telling about automatical,iCoordinator is the very important thing and it will enhance our social life.
 
-7.
+7.In this paper,the kinds of case is only the big industries.If the following days,if some others SMEs or new ventures start with the same project in this paper,it can be put into this paper
