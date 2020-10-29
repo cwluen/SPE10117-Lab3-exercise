@@ -19,4 +19,6 @@
 
 7.In this paper,the kinds of case is only the big industries.If the following days,if some others SMEs or new ventures start with the same project in this paper,it can be put into this paper
 
-This is [lab3part1.md](http://example.com/ "Title") inline link.
+[lab3part1.md](lab3part1.md)
+
+[Lab3](http://personal.cityu.edu.hk/dcywchan/2021SemASPE10117/lab3.html)
