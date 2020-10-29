@@ -9,4 +9,4 @@
 - Synchronization
 - Ecommerce logistics
 
-<a/>3.The main apporach is proving CPS-enabled platform is a solution for (virtual) ecommerce logistics chains and make it better.In this solution,it is a common technology nowadays.Icloud is commonly used by everyone today,for example "Google drive"
+<a/>3.The main apporach is proving CPS-enabled platform is a solution for (virtual) ecommerce logistics chains and make it better.In this solution,it is a common technology nowadays.Icloud is commonly used by everyone today,for example "Google drive cloud storage",it is not difficult for the any companies to set up a server for that.
