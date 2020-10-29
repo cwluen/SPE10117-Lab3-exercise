@@ -6,7 +6,7 @@
 - A CPS-enabled platform solution
 - real-time field data capturing
 - real-time heterogeneous resource coordination 
-- Synchronization mechanisms
-- SMEs
+- Synchronization
+- Ecommerce logistics
 
-<a/>3.
+<a/>3.The main apporach is proving CPS-enabled platform is a solution for (virtual) ecommerce logistics chains and make it better.In this solution,it is a common technology nowadays.Icloud is commonly used by everyone today,for example "Google drive"
